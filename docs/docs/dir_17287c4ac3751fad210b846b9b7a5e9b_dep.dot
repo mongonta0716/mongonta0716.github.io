@@ -1,0 +1,9 @@
+digraph "/home/mongonta/GitRepos/M5Unified/src/utility/imu" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_53b90258abb2433d3565c5618fd22574 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="utility" fontname="Helvetica", fontsize="10", URL="dir_53b90258abb2433d3565c5618fd22574.html"]
+  dir_17287c4ac3751fad210b846b9b7a5e9b [shape=box, label="imu", style="filled", fillcolor="#eeeeff", pencolor="black", URL="dir_17287c4ac3751fad210b846b9b7a5e9b.html"];
+  }
+}

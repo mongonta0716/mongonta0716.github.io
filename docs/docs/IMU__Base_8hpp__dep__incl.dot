@@ -1,0 +1,49 @@
+digraph "/home/mongonta/GitRepos/M5Unified/src/utility/imu/IMU_Base.hpp"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/IMU_Base.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/IMU_Class.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$IMU__Class_8hpp.html",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="/home/mongonta/GitRepos\l/M5Unified/src/M5Unified.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5Unified_8hpp.html",tooltip=" "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="/home/mongonta/GitRepos\l/M5Unified/src/M5Unified.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5Unified_8cpp.html",tooltip=" "];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/IMU_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$IMU__Class_8cpp.html",tooltip=" "];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/Mic_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Mic__Class_8cpp.html",tooltip=" "];
+  Node3 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/Power_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Power__Class_8cpp.html",tooltip=" "];
+  Node3 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/Speaker_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Speaker__Class_8cpp.html",tooltip=" "];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/AK8963_Class.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AK8963__Class_8hpp.html",tooltip=" "];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/AK8963_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$AK8963__Class_8cpp.html",tooltip=" "];
+  Node9 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/BMI270_Class.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BMI270__Class_8hpp.html",tooltip=" "];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/BMI270_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BMI270__Class_8cpp.html",tooltip=" "];
+  Node11 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/BMM150_Class.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BMM150__Class_8hpp.html",tooltip=" "];
+  Node13 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/BMM150_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$BMM150__Class_8cpp.html",tooltip=" "];
+  Node13 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/IMU_Base.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$IMU__Base_8cpp.html",tooltip=" "];
+  Node1 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/MPU6886_Class.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$MPU6886__Class_8hpp.html",tooltip=" "];
+  Node16 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/MPU6886_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$MPU6886__Class_8cpp.html",tooltip=" "];
+  Node16 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/SH200Q_Class.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SH200Q__Class_8hpp.html",tooltip=" "];
+  Node18 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="/home/mongonta/GitRepos\l/M5Unified/src/utility\l/imu/SH200Q_Class.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$SH200Q__Class_8cpp.html",tooltip=" "];
+  Node18 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

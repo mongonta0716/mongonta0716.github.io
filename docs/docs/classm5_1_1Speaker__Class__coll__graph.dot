@@ -1,0 +1,13 @@
+digraph "m5::Speaker_Class"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="m5::Speaker_Class",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _ch_info" ,fontname="Helvetica"];
+  Node2 [label="m5::Speaker_Class::\lchannel_info_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structm5_1_1Speaker__Class_1_1channel__info__t.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" wavinfo" ,fontname="Helvetica"];
+  Node3 [label="m5::Speaker_Class::\lwav_info_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structm5_1_1Speaker__Class_1_1wav__info__t.html",tooltip=" "];
+  Node4 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" _cfg" ,fontname="Helvetica"];
+  Node4 [label="m5::speaker_config_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structm5_1_1speaker__config__t.html",tooltip=" "];
+}

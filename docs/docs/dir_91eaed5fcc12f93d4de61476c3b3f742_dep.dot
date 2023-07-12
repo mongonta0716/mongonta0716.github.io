@@ -1,0 +1,14 @@
+digraph "/home/mongonta/GitRepos/M5Unified/src" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_cf8a5470f03cf1a0c6b1bdda25080753 {
+    graph [ bgcolor="#ddddee", pencolor="black", label="M5Unified" fontname="Helvetica", fontsize="10", URL="dir_cf8a5470f03cf1a0c6b1bdda25080753.html"]
+  subgraph clusterdir_91eaed5fcc12f93d4de61476c3b3f742 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_91eaed5fcc12f93d4de61476c3b3f742.html"];
+    dir_91eaed5fcc12f93d4de61476c3b3f742 [shape=plaintext label="src"];
+    dir_53b90258abb2433d3565c5618fd22574 [shape=box label="utility" color="red" fillcolor="white" style="filled" URL="dir_53b90258abb2433d3565c5618fd22574.html"];
+  }
+  }
+  dir_91eaed5fcc12f93d4de61476c3b3f742->dir_53b90258abb2433d3565c5618fd22574 [headlabel="16", labeldistance=1.5 headhref="dir_000002_000003.html"];
+}
