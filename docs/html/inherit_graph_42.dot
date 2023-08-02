@@ -1,0 +1,27 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node138 [label="lgfx::v1::IFont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d3b/structlgfx_1_1v1_1_1IFont.html",tooltip=" "];
+  Node138 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 [label="lgfx::v1::BaseFont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d8f/structlgfx_1_1v1_1_1BaseFont.html",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="lgfx::v1::BDFfont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d78/structlgfx_1_1v1_1_1BDFfont.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="lgfx::v1::BMPfont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df6/structlgfx_1_1v1_1_1BMPfont.html",tooltip=" "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="lgfx::v1::RLEfont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dc2/structlgfx_1_1v1_1_1RLEfont.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="lgfx::v1::FixedBMPfont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dec/structlgfx_1_1v1_1_1FixedBMPfont.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="lgfx::v1::GLCDfont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dfc/structlgfx_1_1v1_1_1GLCDfont.html",tooltip=" "];
+  Node138 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="lgfx::v1::RunTimeFont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d2d/structlgfx_1_1v1_1_1RunTimeFont.html",tooltip=" "];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="lgfx::v1::VLWfont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dcd/structlgfx_1_1v1_1_1VLWfont.html",tooltip=" "];
+  Node0 [label="lgfx::v1::IFont",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d3b/structlgfx_1_1v1_1_1IFont.html",tooltip=" "];
+  Node0 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

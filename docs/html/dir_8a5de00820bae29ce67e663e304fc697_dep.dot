@@ -1,0 +1,13 @@
+digraph "M5GFX" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_4a8796b0ba1d3dc122873832137fbe4e {
+    graph [ bgcolor="#ddddee", pencolor="black", label="GitRepos" fontname="Helvetica", fontsize="10", URL="dir_4a8796b0ba1d3dc122873832137fbe4e.html"]
+  subgraph clusterdir_8a5de00820bae29ce67e663e304fc697 {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_8a5de00820bae29ce67e663e304fc697.html"];
+    dir_8a5de00820bae29ce67e663e304fc697 [shape=plaintext label="M5GFX"];
+    dir_330f8932d6149eb3f4f70831739d3193 [shape=box label="src" color="red" fillcolor="white" style="filled" URL="dir_330f8932d6149eb3f4f70831739d3193.html"];
+  }
+  }
+}

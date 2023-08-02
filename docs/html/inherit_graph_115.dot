@@ -1,0 +1,14 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node6 [label="true_type",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="RESULT_NAMESPACE_INTERNAL\l::bitwizeshift::detail\l::is_reference_wrapper\<\l std::reference_wrapper\< U \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d35/structRESULT__NAMESPACE__INTERNAL_1_1bitwizeshift_1_1detail_1_1is__reference__wrapper_3_01std_1_c43af3ebe215502d92f825ebb58595c9.html",tooltip=" "];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="RESULT_NAMESPACE_INTERNAL\l::bitwizeshift::is_failure\l\< failure\< E \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d66/structRESULT__NAMESPACE__INTERNAL_1_1bitwizeshift_1_1is__failure_3_01failure_3_01E_01_4_01_4.html",tooltip=" "];
+  Node6 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="RESULT_NAMESPACE_INTERNAL\l::bitwizeshift::is_result\l\< result\< T, E \> \>",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/df4/structRESULT__NAMESPACE__INTERNAL_1_1bitwizeshift_1_1is__result_3_01result_3_01T_00_01E_01_4_01_4.html",tooltip=" "];
+}

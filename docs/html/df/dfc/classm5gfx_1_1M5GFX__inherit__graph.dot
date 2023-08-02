@@ -1,0 +1,32 @@
+digraph "m5gfx::M5GFX"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="m5gfx::M5GFX",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="lgfx::v1::LGFX_Device",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d7d/classlgfx_1_1v1_1_1LGFX__Device.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="lgfx::v1::LovyanGFX",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d26/classlgfx_1_1v1_1_1LovyanGFX.html",tooltip="LovyanGFX class. that depend on the include order of the environment, such as file system,..."];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="lgfx::v1::LGFXBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dfe/classlgfx_1_1v1_1_1LGFXBase.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="M5AtomDisplay",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dc6/classM5AtomDisplay.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="M5ModuleDisplay",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d25/classM5ModuleDisplay.html",tooltip=" "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="M5ModuleRCA",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d5e/classM5ModuleRCA.html",tooltip=" "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="M5UnitGLASS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d7a/classM5UnitGLASS.html",tooltip=" "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="M5UnitGLASS2",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d9d/classM5UnitGLASS2.html",tooltip=" "];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="M5UnitLCD",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/db0/classM5UnitLCD.html",tooltip=" "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="M5UnitMiniOLED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d54/classM5UnitMiniOLED.html",tooltip=" "];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="M5UnitOLED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d07/classM5UnitOLED.html",tooltip=" "];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="M5UnitRCA",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dfd/classM5UnitRCA.html",tooltip=" "];
+}

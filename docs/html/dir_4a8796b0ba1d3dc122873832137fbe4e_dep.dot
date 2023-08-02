@@ -1,0 +1,10 @@
+digraph "GitRepos" {
+  compound=true
+  node [ fontsize="10", fontname="Helvetica"];
+  edge [ labelfontsize="10", labelfontname="Helvetica"];
+  subgraph clusterdir_4a8796b0ba1d3dc122873832137fbe4e {
+    graph [ bgcolor="#eeeeff", pencolor="black", label="" URL="dir_4a8796b0ba1d3dc122873832137fbe4e.html"];
+    dir_4a8796b0ba1d3dc122873832137fbe4e [shape=plaintext label="GitRepos"];
+    dir_8a5de00820bae29ce67e663e304fc697 [shape=box label="M5GFX" color="red" fillcolor="white" style="filled" URL="dir_8a5de00820bae29ce67e663e304fc697.html"];
+  }
+}

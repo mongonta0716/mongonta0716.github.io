@@ -1,0 +1,29 @@
+digraph "Panel_HasBuffer.hpp"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="Panel_HasBuffer.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Panel_GDEW0154M09.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dbc/Panel__GDEW0154M09_8hpp.html",tooltip=" "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Panel_GDEW0154M09.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d7b/Panel__GDEW0154M09_8cpp.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Panel_HasBuffer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d03/Panel__HasBuffer_8cpp.html",tooltip=" "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Panel_SSD1306.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/ded/Panel__SSD1306_8hpp.html",tooltip=" "];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Panel_M5UnitGLASS.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dde/Panel__M5UnitGLASS_8hpp.html",tooltip=" "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Panel_M5UnitGLASS.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dcc/Panel__M5UnitGLASS_8cpp.html",tooltip=" "];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="M5UnitGLASS.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/da5/M5UnitGLASS_8h.html",tooltip=" "];
+  Node5 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Panel_SSD1306.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d98/Panel__SSD1306_8cpp.html",tooltip=" "];
+  Node5 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="M5UnitGLASS2.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d90/M5UnitGLASS2_8h.html",tooltip=" "];
+  Node5 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="M5UnitMiniOLED.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/db0/M5UnitMiniOLED_8h.html",tooltip=" "];
+  Node5 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="M5UnitOLED.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d7f/M5UnitOLED_8h.html",tooltip=" "];
+}

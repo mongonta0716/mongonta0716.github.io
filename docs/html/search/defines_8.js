@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['lgfx_5fesp32_5fspi_5fdma_5fch_5108',['LGFX_ESP32_SPI_DMA_CH',['../d9/dbc/Bus__SPI_8hpp.html#ace5b5a327f67b2c3a7913b50f8c049b3',1,'Bus_SPI.hpp']]],
+  ['lgfx_5ffunction_5fgenerator_5109',['LGFX_FUNCTION_GENERATOR',['../db/de6/lgfx__filesystem__support_8hpp.html#a31e55d2753b740f73a963f1a7b91f60f',1,'LGFX_FUNCTION_GENERATOR():&#160;lgfx_filesystem_support.hpp'],['../d6/d2d/LGFXBase_8hpp.html#a31e55d2753b740f73a963f1a7b91f60f',1,'LGFX_FUNCTION_GENERATOR():&#160;LGFXBase.hpp']]],
+  ['lgfx_5finline_5110',['LGFX_INLINE',['../de/d28/LGFX__Sprite_8hpp.html#aaeb46fdd81c6edbbf509bdb8f8475170',1,'LGFX_INLINE():&#160;LGFX_Sprite.hpp'],['../d6/d2d/LGFXBase_8hpp.html#aaeb46fdd81c6edbbf509bdb8f8475170',1,'LGFX_INLINE():&#160;LGFXBase.hpp'],['../d2/dd9/colortype_8hpp.html#aaeb46fdd81c6edbbf509bdb8f8475170',1,'LGFX_INLINE():&#160;colortype.hpp'],['../d2/dd9/colortype_8hpp.html#aaeb46fdd81c6edbbf509bdb8f8475170',1,'LGFX_INLINE():&#160;colortype.hpp'],['../d1/d56/DataWrapper_8hpp.html#aaeb46fdd81c6edbbf509bdb8f8475170',1,'LGFX_INLINE():&#160;DataWrapper.hpp'],['../d2/d53/range_8hpp.html#aaeb46fdd81c6edbbf509bdb8f8475170',1,'LGFX_INLINE():&#160;range.hpp']]],
+  ['lgfx_5finline_5ft_5111',['LGFX_INLINE_T',['../d6/d2d/LGFXBase_8hpp.html#a4ab9d020b373a351c672154c285d8a91',1,'LGFXBase.hpp']]],
+  ['lgfx_5fpngle_5fnon_5ftrans_5fcolor_5112',['LGFX_PNGLE_NON_TRANS_COLOR',['../db/dc5/lgfx__pngle_8c.html#a92179fb05eafc0908f0d7a22f962c567',1,'lgfx_pngle.c']]],
+  ['lgfx_5fpngle_5foutbuf_5flen_5113',['LGFX_PNGLE_OUTBUF_LEN',['../db/dc5/lgfx__pngle_8c.html#a838fc7bd14383eb972d7ab304fd20b74',1,'lgfx_pngle.c']]],
+  ['lgfx_5fpngle_5freadbuf_5flen_5114',['LGFX_PNGLE_READBUF_LEN',['../db/dc5/lgfx__pngle_8c.html#ad9d132bcd2cbd39b61e968d6695caa1e',1,'lgfx_pngle.c']]],
+  ['lgfx_5fprintf_5fenabled_5115',['LGFX_PRINTF_ENABLED',['../d6/d2d/LGFXBase_8hpp.html#a4ac7a5d913057e519f30a42199b72201',1,'LGFXBase.hpp']]],
+  ['lgfx_5fqoi_5freadbuf_5flen_5116',['LGFX_QOI_READBUF_LEN',['../da/d86/lgfx__qoi_8c.html#aec853d7df707a0869168900593b612ec',1,'lgfx_qoi.c']]],
+  ['lgfx_5furl_5fmaxlength_5117',['LGFX_URL_MAXLENGTH',['../db/de6/lgfx__filesystem__support_8hpp.html#a18ac1a9f1cc76ae10a3fa2e2793e2373',1,'lgfx_filesystem_support.hpp']]],
+  ['lgfx_5fuse_5fv1_5118',['LGFX_USE_V1',['../dd/d06/M5GFX_8h.html#a8971619bda1a23f66d5a31f72adef7cc',1,'M5GFX.h']]],
+  ['lgfx_5fversion_5fmajor_5119',['LGFX_VERSION_MAJOR',['../d1/de2/gitTagVersion_8h.html#a50039b2b523c9df5498077401a675dea',1,'gitTagVersion.h']]],
+  ['lgfx_5fversion_5fminor_5120',['LGFX_VERSION_MINOR',['../d1/de2/gitTagVersion_8h.html#aa403dac2ec7f82972f643356141693c4',1,'gitTagVersion.h']]],
+  ['lgfx_5fversion_5fpatch_5121',['LGFX_VERSION_PATCH',['../d1/de2/gitTagVersion_8h.html#a6072fb2b11b5c19d6d067c772b7dd27d',1,'gitTagVersion.h']]],
+  ['lock_5fversion_5122',['LOCK_VERSION',['../d7/db8/lgfx__qrcode_8h.html#a42e94ea12f7851b1a6cff265473e6ee0',1,'lgfx_qrcode.h']]],
+  ['lovyangfx_5fversion_5123',['LOVYANGFX_VERSION',['../d1/de2/gitTagVersion_8h.html#aa40f97f78802c1511b99b7b433140f76',1,'gitTagVersion.h']]]
+];

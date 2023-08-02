@@ -1,6 +1,0 @@
-var searchData=
-[
-  ['timersleep_960',['timerSleep',['../classm5_1_1Power__Class.html#a24f9966e8e69d16f2275201d51ade276',1,'m5::Power_Class::timerSleep(int seconds)'],['../classm5_1_1Power__Class.html#a2638df8a825b277f001d1eb174b181f1',1,'m5::Power_Class::timerSleep(const rtc_time_t &amp;time)'],['../classm5_1_1Power__Class.html#a1e2b664c1e0e5b8fab4f19da64296ec9',1,'m5::Power_Class::timerSleep(const rtc_date_t &amp;date, const rtc_time_t &amp;time)']]],
-  ['toggle_961',['toggle',['../classM5Timer.html#a0fdd8bcf8864af5dcbd91d5a8b2a5a1f',1,'M5Timer']]],
-  ['tone_962',['tone',['../classm5_1_1Speaker__Class.html#aca2ff9ea7e14cee7edb93b429bcdba13',1,'m5::Speaker_Class::tone(float frequency, uint32_t duration, int channel, bool stop_current_sound, const uint8_t *raw_data, size_t array_len, bool stereo=false)'],['../classm5_1_1Speaker__Class.html#a8f16459863bf4d9c648a23a88b4367e6',1,'m5::Speaker_Class::tone(float frequency, uint32_t duration=~0u, int channel=-1, bool stop_current_sound=true)']]]
-];

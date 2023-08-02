@@ -1,0 +1,8 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="lgfx::v1::Panel_M5HDMI\l::HDMI_Trans::ChipID",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d46/structlgfx_1_1v1_1_1Panel__M5HDMI_1_1HDMI__Trans_1_1ChipID.html",tooltip=" "];
+}

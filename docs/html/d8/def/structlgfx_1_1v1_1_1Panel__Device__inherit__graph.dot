@@ -1,0 +1,54 @@
+digraph "lgfx::v1::Panel_Device"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="lgfx::v1::Panel_Device",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="lgfx::v1::IPanel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d8d/structlgfx_1_1v1_1_1IPanel.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="lgfx::v1::Panel_fb",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc4/structlgfx_1_1v1_1_1Panel__fb.html",tooltip=" "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="lgfx::v1::Panel_FrameBufferBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dd4/structlgfx_1_1v1_1_1Panel__FrameBufferBase.html",tooltip=" "];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="lgfx::v1::Panel_CVBS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dfb/structlgfx_1_1v1_1_1Panel__CVBS.html",tooltip=" "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="lgfx::v1::Panel_HasBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/da7/structlgfx_1_1v1_1_1Panel__HasBuffer.html",tooltip=" "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="lgfx::v1::Panel_1bitOLED",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d54/structlgfx_1_1v1_1_1Panel__1bitOLED.html",tooltip=" "];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="lgfx::v1::Panel_M5UnitGlass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d57/structlgfx_1_1v1_1_1Panel__M5UnitGlass.html",tooltip=" "];
+  Node7 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="lgfx::v1::Panel_SH110x",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d50/structlgfx_1_1v1_1_1Panel__SH110x.html",tooltip=" "];
+  Node7 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="lgfx::v1::Panel_SSD1306",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d61/structlgfx_1_1v1_1_1Panel__SSD1306.html",tooltip=" "];
+  Node7 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="lgfx::v1::Panel_ST7565",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d7f/structlgfx_1_1v1_1_1Panel__ST7565.html",tooltip=" "];
+  Node6 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="lgfx::v1::Panel_GDEW0154M09",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db8/structlgfx_1_1v1_1_1Panel__GDEW0154M09.html",tooltip=" "];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="lgfx::v1::Panel_IT8951",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d06/structlgfx_1_1v1_1_1Panel__IT8951.html",tooltip=" "];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="lgfx::v1::Panel_LCD",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/de5/structlgfx_1_1v1_1_1Panel__LCD.html",tooltip=" "];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="lgfx::v1::Panel_GC9xxx",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d76/structlgfx_1_1v1_1_1Panel__GC9xxx.html",tooltip=" "];
+  Node15 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="lgfx::v1::Panel_GC9107",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/structlgfx_1_1v1_1_1Panel__GC9107.html",tooltip=" "];
+  Node15 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="lgfx::v1::Panel_GC9A01",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d59/structlgfx_1_1v1_1_1Panel__GC9A01.html",tooltip=" "];
+  Node14 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="lgfx::v1::Panel_ILI9342",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/da0/structlgfx_1_1v1_1_1Panel__ILI9342.html",tooltip=" "];
+  Node14 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="lgfx::v1::Panel_ST7735",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dd1/structlgfx_1_1v1_1_1Panel__ST7735.html",tooltip=" "];
+  Node19 -> Node20 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node20 [label="lgfx::v1::Panel_ST7735S",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d02/structlgfx_1_1v1_1_1Panel__ST7735S.html",tooltip=" "];
+  Node14 -> Node21 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node21 [label="lgfx::v1::Panel_ST7789",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d60/structlgfx_1_1v1_1_1Panel__ST7789.html",tooltip=" "];
+  Node1 -> Node22 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node22 [label="lgfx::v1::Panel_M5HDMI",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dc1/structlgfx_1_1v1_1_1Panel__M5HDMI.html",tooltip=" "];
+  Node1 -> Node23 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node23 [label="lgfx::v1::Panel_M5UnitLCD",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d7e/structlgfx_1_1v1_1_1Panel__M5UnitLCD.html",tooltip=" "];
+  Node1 -> Node24 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node24 [label="lgfx::v1::Panel_NULL",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d50/structlgfx_1_1v1_1_1Panel__NULL.html",tooltip=" "];
+}

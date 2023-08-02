@@ -1,0 +1,31 @@
+digraph "/home/mongonta/GitRepos/M5GFX/src/lgfx/v1/LGFX_Sprite.hpp"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="/home/mongonta/GitRepos\l/M5GFX/src/lgfx/v1/LGFX\l_Sprite.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="/home/mongonta/GitRepos\l/M5GFX/src/lgfx/v1/LGFX\l_Sprite.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$LGFX__Sprite_8cpp.html",tooltip=" "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5GFX.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5GFX_8h.html",tooltip=" "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5AtomDisplay.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5AtomDisplay_8h.html",tooltip=" "];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5GFX.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5GFX_8cpp.html",tooltip=" "];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5ModuleDisplay.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5ModuleDisplay_8h.html",tooltip=" "];
+  Node3 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5ModuleRCA.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5ModuleRCA_8h.html",tooltip=" "];
+  Node3 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5UnitGLASS.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5UnitGLASS_8h.html",tooltip=" "];
+  Node3 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5UnitGLASS2.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5UnitGLASS2_8h.html",tooltip=" "];
+  Node3 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5UnitLCD.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5UnitLCD_8h.html",tooltip=" "];
+  Node3 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5UnitMiniOLED.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5UnitMiniOLED_8h.html",tooltip=" "];
+  Node3 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5UnitOLED.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5UnitOLED_8h.html",tooltip=" "];
+  Node3 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="/home/mongonta/GitRepos\l/M5GFX/src/M5UnitRCA.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$M5UnitRCA_8h.html",tooltip=" "];
+}

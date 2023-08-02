@@ -1,0 +1,20 @@
+digraph "lgfx::v1::png_file_decoder_t"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="lgfx::v1::png_file\l_decoder_t",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="lgfx::v1::image_decoder_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structlgfx_1_1v1_1_1image__decoder__t.html",tooltip=" "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="lgfx::v1::image_info_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structlgfx_1_1v1_1_1image__info__t.html",tooltip=" "];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" gfx" ,fontname="Helvetica"];
+  Node4 [label="lgfx::v1::LGFXBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classlgfx_1_1v1_1_1LGFXBase.html",tooltip=" "];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" data" ,fontname="Helvetica"];
+  Node5 [label="lgfx::v1::DataWrapper",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structlgfx_1_1v1_1_1DataWrapper.html",tooltip=" "];
+  Node4 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parent" ,fontname="Helvetica"];
+  Node6 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" pc" ,fontname="Helvetica"];
+  Node6 [label="lgfx::v1::pixelcopy_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structlgfx_1_1v1_1_1pixelcopy__t.html",tooltip=" "];
+  Node7 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" lineBuffer" ,fontname="Helvetica"];
+  Node7 [label="lgfx::v1::bgra8888_t",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$structlgfx_1_1v1_1_1bgra8888__t.html",tooltip=" "];
+}

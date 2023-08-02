@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['n_5fpalettes_1764',['n_palettes',['../dd/d5a/struct__pngle__t.html#a4a21000e56f8e897d30de608fff3ebb7',1,'_pngle_t']]],
+  ['name_1765',['name',['../df/d23/IPA__Font__License__Agreement__v1_80_8txt.html#a7dd17909bd6acba3e5cd944be92a88e0',1,'IPA_Font_License_Agreement_v1.0.txt']]],
+  ['need_5ftransaction_1766',['need_transaction',['../d8/d54/structlgfx_1_1v1_1_1DataWrapper.html#abd08257cb76d09bf7606703d63a8aec5',1,'lgfx::v1::DataWrapper']]],
+  ['next_5fout_1767',['next_out',['../dd/d5a/struct__pngle__t.html#a50a330d7d0430a4e3d00762882533e11',1,'_pngle_t']]],
+  ['no_5fconvert_1768',['no_convert',['../d0/d72/namespacelgfx_1_1v1.html#a8577e596a4480b1c509f02980798a65a',1,'lgfx::no_convert()'],['../d0/d72/namespacelgfx_1_1v1.html#a8577e596a4480b1c509f02980798a65a',1,'lgfx::v1::no_convert()']]],
+  ['no_5fpsram_1769',['no_psram',['../dd/dc6/classlgfx_1_1v1_1_1DividedFrameBuffer.html#ad15f86b6544c777bc83de24e2412f0c0a6d7482c43c4fa15c12ccd28f9c211cf4',1,'lgfx::v1::DividedFrameBuffer']]],
+  ['non_5ftransp_1770',['NON_TRANSP',['../dc/dce/structlgfx_1_1v1_1_1pixelcopy__t.html#a669f4440017df4b5e48c2fdb124106c2',1,'lgfx::v1::pixelcopy_t']]],
+  ['none_1771',['NONE',['../d8/de5/structlgfx_1_1v1_1_1Touch__CST816S.html#a8d78d83a92c0596993fba6b2d9df23a5acc663c08ff19ee4959a29c1161b1316d',1,'lgfx::v1::Touch_CST816S']]],
+  ['nonswapped_1772',['nonswapped',['../d0/d72/namespacelgfx_1_1v1.html#a06ea7909be22814ba1037f53fc50b220a9730a562b2850bacc09a2f0eb712c5b6',1,'lgfx::v1::nonswapped()'],['../d0/d72/namespacelgfx_1_1v1.html#a06ea7909be22814ba1037f53fc50b220a9730a562b2850bacc09a2f0eb712c5b6',1,'lgfx::nonswapped()']]],
+  ['normal_1773',['Normal',['../d0/d72/namespacelgfx_1_1v1.html#a10b93d662ffba1b750a226a66bc9c6d7a212b09f5e99dc9ad31df16f3ec6feaa2',1,'lgfx::Normal()'],['../d0/d72/namespacelgfx_1_1v1.html#a10b93d662ffba1b750a226a66bc9c6d7a212b09f5e99dc9ad31df16f3ec6feaa2',1,'lgfx::v1::Normal()']]],
+  ['notice_1774',['notice',['../d8/d11/COPYRIGHT_8txt.html#a499ce52a6bb34620b0a93bed6f67d5f0',1,'notice():&#160;COPYRIGHT.txt'],['../d7/def/license_8txt.html#a990fe1aff7de30ccf43de6823b94924f',1,'notice():&#160;license.txt']]],
+  ['nr_5fchrs_5ff16_1775',['nr_chrs_f16',['../d7/df1/Font16_8h.html#a746540ecdcb8fc552b1a41532bdb4d17',1,'Font16.h']]],
+  ['nr_5fchrs_5ff32_1776',['nr_chrs_f32',['../de/d9d/Font32rle_8h.html#a361af74e860731c10492f5dcd3ebb4cb',1,'Font32rle.h']]],
+  ['nr_5fchrs_5ff64_1777',['nr_chrs_f64',['../d8/da1/Font64rle_8h.html#a7f9a26408bec76785dcfd796c2926813',1,'Font64rle.h']]],
+  ['nr_5fchrs_5ff72_1778',['nr_chrs_f72',['../df/d82/Font72rle_8h.html#af160a3e93af6af6bb20be2cd7b355036',1,'nr_chrs_f72():&#160;Font72rle.h'],['../d9/da4/Font72x53rle_8h.html#af160a3e93af6af6bb20be2cd7b355036',1,'nr_chrs_f72():&#160;Font72x53rle.h']]],
+  ['nr_5fchrs_5ff7s_1779',['nr_chrs_f7s',['../d3/d3e/Font7srle_8h.html#a98cbc6442689d2640566dcb3ad4d35e9',1,'Font7srle.h']]],
+  ['nrst_1780',['nrst',['../db/d33/structlgfxJdec.html#ae433debd53a7ea091ad0aec31c8e347a',1,'lgfxJdec']]],
+  ['ntsc_1781',['NTSC',['../d6/d58/structlgfx_1_1v1_1_1Panel__CVBS_1_1config__detail__t.html#a23a8d8093c6204a5d3c89de8cd82f26da37abe757065a516861f5bf6f226cf565',1,'lgfx::v1::Panel_CVBS::config_detail_t']]],
+  ['ntsc_5fj_1782',['NTSC_J',['../d6/d58/structlgfx_1_1v1_1_1Panel__CVBS_1_1config__detail__t.html#a23a8d8093c6204a5d3c89de8cd82f26da58234ca03b7e0f44c911dedba03f1d29',1,'lgfx::v1::Panel_CVBS::config_detail_t']]]
+];

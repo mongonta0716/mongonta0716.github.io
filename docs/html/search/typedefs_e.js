@@ -1,0 +1,5 @@
+var searchData=
+[
+  ['underlying_5ferror_5ftype_4829',['underlying_error_type',['../dd/d1a/structRESULT__NAMESPACE__INTERNAL_1_1bitwizeshift_1_1detail_1_1result__union.html#a090e46c8a8bf85ae382fa3057e470775',1,'RESULT_NAMESPACE_INTERNAL::bitwizeshift::detail::result_union::underlying_error_type()'],['../d4/d05/structRESULT__NAMESPACE__INTERNAL_1_1bitwizeshift_1_1detail_1_1result__union_3_01T_00_01E_00_01false_01_4.html#a3258b39564c957a4372ce56f51dcedd6',1,'RESULT_NAMESPACE_INTERNAL::bitwizeshift::detail::result_union&lt; T, E, false &gt;::underlying_error_type()']]],
+  ['underlying_5fvalue_5ftype_4830',['underlying_value_type',['../dd/d1a/structRESULT__NAMESPACE__INTERNAL_1_1bitwizeshift_1_1detail_1_1result__union.html#a3883490589f5690e8faa0a6ffdf32d80',1,'RESULT_NAMESPACE_INTERNAL::bitwizeshift::detail::result_union::underlying_value_type()'],['../d4/d05/structRESULT__NAMESPACE__INTERNAL_1_1bitwizeshift_1_1detail_1_1result__union_3_01T_00_01E_00_01false_01_4.html#a9a202e236a84afcbfeb2ef07f7bfc097',1,'RESULT_NAMESPACE_INTERNAL::bitwizeshift::detail::result_union&lt; T, E, false &gt;::underlying_value_type()']]]
+];
